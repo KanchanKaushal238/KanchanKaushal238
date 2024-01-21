@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KanchanKaushal238
 - 👀 I’m interested in ...Web Development
-- 🌱 I’m currently learning ...ASP.Net
+- 🌱 I’m currently working as a ....Net Developer
 - 💞️ I’m looking to collaborate on ...Web Development projects
 - 📫 How to reach me ...kaushalkanchan238@gmail.com
 
